@@ -36,3 +36,8 @@
 - [ ] Include code for commandline switches
 - [ ] Include in main repo
 - [ ] Delete old repo
+
+# Miscellaneous
+- [ ] cleanup opsim sourceforge
+- [ ] take sf mailinglist offline
+- [ ] delete gh organization for opsim

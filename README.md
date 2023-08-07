@@ -1,6 +1,6 @@
 # testing repository
 just some miscellaneous things to test
 
-# actions
+## actions
 I have the following actions defined:
   

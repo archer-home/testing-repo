@@ -9,8 +9,11 @@
 - [ ] Standardize documentation of api
 - [ ] Create simple website and socials
 - [ ] Create a buildbot (use existing code) for the code
-- [ ] Create an action that makes a release on bumping the version
-- [ ] Create a release action for standard text for each release
+- Actions
+  - [ ] Create an action that makes a release on bumping the version
+  - [ ] Create a release action for standard text for each release
+  - [ ] Implement conventional commit checker action
+  - [ ] Code formatting action
 
 # Main repo
 - [ ] Move libs to repo eg 
@@ -25,6 +28,10 @@
 - [ ] Move tools to repo
 - [ ] autodoc (precommit hook)
 - [ ] licenseheader (precommit hook)
+- [ ] i10n
+
+# simulation enine
+- [ ] move code from SF.NET to 
 
 # PP
 - [ ] create new repo

@@ -12,6 +12,7 @@ jobs:
   label:
     runs-on: ubuntu-latest
     name: Lint PR
+    permissions: write-all
     steps:
       - name: label
         uses: action-runner/conventional-labeler@v1

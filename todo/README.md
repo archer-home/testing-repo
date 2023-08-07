@@ -31,7 +31,7 @@
 - [ ] i10n
 
 # simulation enine
-- [ ] move code from SF.NET to 
+- [ ] move code from SF.NET to GH
 
 # PP
 - [ ] create new repo

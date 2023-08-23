@@ -16,6 +16,7 @@
   - [ ] Code formatting action
 
 # Main repo
+- [x] create main repo (archer)
 - [ ] Move libs to repo eg 
 - [ ] chemform
 - [ ] uom
